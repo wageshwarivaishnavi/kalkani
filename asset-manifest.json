@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kalkani/static/css/main.e010cfff.css",
+    "main.js": "/kalkani/static/js/main.b9d81274.js",
+    "static/js/787.a5d0423f.chunk.js": "/kalkani/static/js/787.a5d0423f.chunk.js",
+    "static/media/animeImage.webp": "/kalkani/static/media/animeImage.58844d42b9f6d86ebcd2.webp",
+    "index.html": "/kalkani/index.html",
+    "main.e010cfff.css.map": "/kalkani/static/css/main.e010cfff.css.map",
+    "main.b9d81274.js.map": "/kalkani/static/js/main.b9d81274.js.map",
+    "787.a5d0423f.chunk.js.map": "/kalkani/static/js/787.a5d0423f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e010cfff.css",
+    "static/js/main.b9d81274.js"
+  ]
+}
