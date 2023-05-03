@@ -2,6 +2,10 @@
 
 [image](https://user-images.githubusercontent.com/105156245/235338704-71200c60-2069-4e5d-93e5-036101ea51b1.png)
 
+This project is deploy at :
+
+https://wageshwari0610.github.io/kalkani/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
