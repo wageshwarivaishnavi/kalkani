@@ -4,7 +4,7 @@
 
 This project is deploy at :
 
-https://wageshwari0610.github.io/kalkani/
+https://wageshwarivaishnavi.github.io/kalkani/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
